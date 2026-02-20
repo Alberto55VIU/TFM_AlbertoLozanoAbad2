@@ -6,4 +6,4 @@
 **02. Programación Omron_Algoritmos**
   Se programa en herramienta de software Omron "FH_FHV Launcher" los diferentes algoritmos para realizar el procesado de imágenes.
   Se adjuntan las imágenes con las que se ha trabajado para el ajuste del sistema de inspección.
-  Se adjuntan los archivos quie contienen la programación realizada.
+  Se adjuntan los archivos que contienen la programación realizada.
